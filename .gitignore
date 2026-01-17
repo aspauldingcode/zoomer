@@ -1,0 +1,11 @@
+build/
+*.o
+*.dylib
+*.pkg
+*.zip
+.DS_Store
+.gemini/
+brain/
+implementation_plan.md
+task.md
+walkthrough.md
