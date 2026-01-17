@@ -4,6 +4,8 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+![Zoomer in action](./zoomer.gif)
+
 ## Installation
 
 ```bash
